@@ -58,7 +58,6 @@ $student=array(
         )
      )
 );
-
 print_r ($student);
 ?>
  </body>
